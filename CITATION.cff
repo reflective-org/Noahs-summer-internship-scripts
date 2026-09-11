@@ -7,9 +7,9 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Noah
-    email: noah@reflective.org
-    affiliation: Reflective
+  - given-names: Noah Asch
+    email: nasch@andrew.cmu.edu
+    affiliation: Reflective, Carnegie Mellon University
   - name: Reflective
     address: 26 Pier Annex
     city: San Francisco
