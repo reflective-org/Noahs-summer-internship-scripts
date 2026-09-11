@@ -7,6 +7,9 @@ message: >-
   metadata from this file.
 type: software
 authors:
+  - given-names: Noah
+    email: noah@reflective.org
+    affiliation: Reflective
   - name: Reflective
     address: 26 Pier Annex
     city: San Francisco
